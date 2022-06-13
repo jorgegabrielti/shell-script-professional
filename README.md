@@ -10,3 +10,4 @@ Projeto dedicado a implementação de scripts bash de forma profissional. Este p
 
 - [https://www.shellscript.com.br/](https://www.shellscript.com.br/)
 - [https://aurelio.net/shell/canivete/](https://aurelio.net/shell/canivete/)
+- [https://github.com/aureliojargas/livro-shell](https://github.com/aureliojargas/livro-shell)
